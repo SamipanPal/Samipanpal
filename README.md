@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samipanpal
+- 👋 Hi, I’m @Samipan Pal.
 - 👀 I’m interested in playing cricket
 - 🌱 I’m currently learning learning PYTHON , [CSS] and [MySQL] .
 - 📫 How to reach me You can reach me via my social links 
