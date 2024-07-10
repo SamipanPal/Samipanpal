@@ -1,8 +1,10 @@
+
+
 - 👋 Hi, I’m @Samipan Pal.
 - 👀 I’m interested in playing cricket
 - 🌱 I’m currently learning learning PYTHON , [CSS] and [MySQL] .
 - 📫 How to reach me You can reach me via my social links 
-- 😄 I am currently pursuing B.Tech in ELECTRICAL ENGINEERING at ACADEMY OF TECHNOLOGY,HOOGHLY.
+- 😄 I am currently pursuing B.Tech in ELECTRICAL & ELECTRONICS ENGINEERING at ACADEMY OF TECHNOLOGY,HOOGHLY.
 - ⚡ Fun fact: I waste most my time playing games. 
 <!---
 Samipanpal/Samipanpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
