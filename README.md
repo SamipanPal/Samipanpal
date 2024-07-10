@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/samipanpal1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samipanpal1234" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/samipan-pal-6b2bb7303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/samipan-pal-6b2bb7303" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samipan-pal-6b2bb7303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/samipan-pal-6b2bb7303" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
