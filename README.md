@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm SamipanPal</h1>
+<h1 align="center">Hi 👋, I'm Samipan Pal</h1>
 <h3 align="center">I am currently pursuing B.Tech in Electrical & Electronics Engineering from India</h3>
 
+- 🌱 I’m currently learning **PYTHON,[CSS] and [MySQL] .**
 
-- 🌱 I’m currently learning **PYTHON,[CSS] and [MySQL]**
-
-- ⚡ Fun fact **I waste most my time playing online game**
+- ⚡ Fun fact **I am so funny 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/samipanpal1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samipanpal1234" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samipan-pal-6b2bb7303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/samipan-pal-6b2bb7303" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samipan-pal-6b2bb7303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samipan-pal-6b2bb7303" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/samipan_pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samipan_pal" height="30" width="40" /></a>
+<a href="https://discord.gg/samipanpal." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samipanpal." height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samipanpal&show_icons=true&locale=en" alt="samipanpal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samipanpal&" alt="samipanpal" /></p>
+
