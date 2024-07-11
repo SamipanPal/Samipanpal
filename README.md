@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samipan Pal</h1>
 <h3 align="center">I am currently pursuing B.Tech in Electrical & Electronics Engineering from India</h3>
 
+
 - 🌱 I’m currently learning **PYTHON,[CSS] and [MySQL] .**
 
 - ⚡ Fun fact **I am so funny 😂**
@@ -21,4 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samipanpal&show_icons=true&locale=en" alt="samipanpal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samipanpal&" alt="samipanpal" /></p>
+
 
