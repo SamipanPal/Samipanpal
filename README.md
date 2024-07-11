@@ -11,7 +11,7 @@
 <a href="https://twitter.com/samipanpal1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samipanpal1234" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samipan-pal-6b2bb7303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samipan-pal-6b2bb7303" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/samipan_pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samipan_pal" height="30" width="40" /></a>
-<a href="https://discord.gg/samipanpal." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samipanpal." height="30" width="40" /></a>
+<a href="https://discord.gg/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@me" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,5 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samipanpal&show_icons=true&locale=en" alt="samipanpal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samipanpal&" alt="samipanpal" /></p>
-
-
